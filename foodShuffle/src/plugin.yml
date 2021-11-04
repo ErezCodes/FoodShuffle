@@ -1,0 +1,16 @@
+name: foodShuffle
+version: 1.0
+author: Erez
+main: me.erez.foodShuffle.Main
+description: A minigame for 2, each player has 5 minutes to eat a random food
+api-version: 1.17
+
+commands:
+  clearSlots:
+    description: Clear the player slots
+  joinGame:
+    description: Join the game
+  startGame:
+    description: start the food shuffle game
+  reroll:
+    description: if you are not happy with your task, get a new one
